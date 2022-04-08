@@ -3,7 +3,7 @@
 ## Development Setup
 
  1. Clone the repo
- 2. Instructions from [React Native Expo CLI Quickstart](https://reactnative.dev/docs/environment-setup)
+ 2. Instructions below are from [React Native Expo CLI Quickstart](https://reactnative.dev/docs/environment-setup)
  3. Install node version 12 or higher is installed on the machine from [node website](https://nodejs.org/en/download/)
  4. Run `npm install -g expo-cli`
  5. cd into Nobellum folder and run `npm install`
